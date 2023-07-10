@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/7c745ce2-d101-4034-80f4-41d5bb5ee09b/resourceGroups/Ask/providers/Microsoft.Web/sites/ask-blockchain",
+  "appService.deploySubpath": "."
+}
